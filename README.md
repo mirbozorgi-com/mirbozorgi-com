@@ -39,7 +39,7 @@
 - 💻 Bash script, Python script, JavaScript
 - 💻 Problem-solving, Team leading, super visioning groups and team
 - 💻 Ansible (for centralizing the VMs)
-- 💻 Familiar with:
+- 💻 Familiar with: <br>
   ➔ Go Lang and Gin framework and Go Lang scripts <br>
   ➔ Python and Django framework<br>
   ➔ HTML, CSS<br>
